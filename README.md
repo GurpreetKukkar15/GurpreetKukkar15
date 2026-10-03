@@ -35,7 +35,7 @@ Concurrent, persistent TCP key-value store built from scratch in C on Linux — 
 ## 📊 GitHub Stats
 
 ![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=GurpreetKukkar15&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetKukkar15&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GurpreetKukkar15&layout=compact&theme=default&exclude_repo=CelestiaVR)
 
 ## 📫 Connect with me
 
